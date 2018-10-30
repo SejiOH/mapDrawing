@@ -16,14 +16,14 @@ There are various datasets to draw a map in R.
 Especially, packages like 'maps' and 'mapdata' are useful to practice it.
 
 Prerequites are:
-<pre><code>
+<code>
 library(tidyverse)
 library(filesstrings)
 library(magrittr)
 library(RColorBrewer)
 library(maps)
 library(mapdata)
-</code></pre>
+</code>
 
 Let's set a working directory as we do usually.
 If you do not want create a directory, then skip the first line.
