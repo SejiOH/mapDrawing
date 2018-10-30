@@ -3,7 +3,7 @@
 <b><h4>Let's draw a map with R and Python.</b></h4>
 
 Drawing a map is one of the powerful visualization tools.<br>
-We can add texts, numbers(probably they are statistically meaningful figures), images and so on.<br>
+We can add texts, charts numbers(probably they are statistically meaningful figures), images and so on.<br>
 We can express indicators by coloring on a map.
 
 So here we are going to make these outputs step by step.<br>
