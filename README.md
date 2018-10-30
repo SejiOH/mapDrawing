@@ -2,18 +2,18 @@
 
 <b><h4>Let's draw a map with R and Python.</b></h4>
 
-Drawing a map is one of the powerful visualization tools.
-We can add texts, numbers(probably they are statistically meaningful figures), images and so on.
+Drawing a map is one of the powerful visualization tools.<br>
+We can add texts, numbers(probably they are statistically meaningful figures), images and so on.<br>
 We can express indicators by coloring on a map.
 
-So here we are going to make these outputs step by step.
-<a href=#mapR>1. Draw a map with R</a>
-<a href=#mapPython>2. Draw a map with Python</a>
+So here we are going to make these outputs step by step.<br>
+<a href=#mapR>1. Draw a map with R</a><br>
+<a href=#mapPython>2. Draw a map with Python</a><br>
 <a href=#references>3. References</a>
 
 <b><h4 id=mapR>1.Draw a map with R</h4></b>
-There are various datasets to draw a map in R.
-Especially, packages like 'maps' and 'mapdata' are useful to practice it.
+There are various datasets to draw a map in R.<br>
+Especially, packages like 'maps' and 'mapdata' are useful to practice it.<br>
 
 Prerequites are:
 <pre><code>
@@ -25,7 +25,7 @@ library(maps)
 library(mapdata)
 </code></pre>
 
-Let's set a working directory as we do usually.
+Let's set a working directory as we do usually.<br>
 If you do not want create a directory, then skip the first line.
 <pre><code>
 create_dir("D:/working_directory")
